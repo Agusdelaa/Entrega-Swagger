@@ -1,4 +1,4 @@
-![image](https://github.com/Agusdelaa/Entrega-Swagger/assets/129866349/ee89bd2d-46f3-40b4-a206-9298dc142ccd)Inicio
+Inicio
 ![image](https://github.com/Agusdelaa/Reestructuraci-n/assets/129866349/efb23771-f2e0-4fe9-ba6d-fd44fe3d5c99)
 
 Login Git
